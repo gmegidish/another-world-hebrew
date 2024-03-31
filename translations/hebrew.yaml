@@ -1,0 +1,130 @@
+items:
+  - function: draw_good_evening_professor
+    original: "Good evening professor."
+    translated: "ערב טוב פרופסור."
+    direction: "rtl"
+    position: 290,170
+
+  - function: draw_i_see_you_have_driven
+    original: "I see you have driven here in your\nFerrari."
+    translated: "אני רואה שהגעת לכאן עם הפרארי שלך."
+    direction: "rtl"
+    position: 290,170
+
+  - function: draw_identification
+    original: "IDENTIFICATION"
+    translated: "תהליך הזדהות"
+    direction: "rtl"
+    position: 260,20
+
+  - function: draw_copyright_peanut
+    original: "Copyright  } 1990 Peanut Computer, Inc. All rights reserved. CDOS Version 5.01"
+    translated: "כל הזכויות שמורות 0991, בוטן מחשבים בעֿ\"מ"
+    direction: "rtl"
+    position: 300,20
+
+  - function: draw_modification_of_parameters
+    original: "MODIFICATION OF PARAMETERS\nRELATING TO PARTICLE\nACCELERATOR (SYNCHROTRON)."
+    translated: "שינוי פרמטרים\nהקשורים למאיץ\nחלקיקים )סינכרוטרון("
+    direction: "rtl"
+    position: 300,6
+
+  - function: draw_theoretical_study
+    original: "--- Theoretical study ---"
+    translated: "--- מחקר תיאורטי ---"
+    direction: "rtl"
+    position: 220,2
+
+  - function: draw_run_experiment
+    original: "RUN EXPERIMENT ?"
+    translated: "התחל ניסוי ?"
+    direction: "rtl"
+    position: 160,170
+
+  - function: draw_practical_verification
+    original: "Practical verification Y/N ?"
+    translated: "אימות מעשי N/Y ?"
+    direction: "rtl"
+    position: 160,80
+
+  - function: draw_phase_0
+    original: "Phase 0:\nINJECTION of particles\ninto synchrotron"
+    translated: "שלב 0:\nהזרקת חלקיקים\nלתוך סינכרוטרון"
+    direction: "rtl"
+    position: 160,150
+
+  - function: draw_phase_1
+    original: "Phase 1:\nParticle ACCELERATION."
+    translated: |
+      שלב 1:
+      האצת חלקיקים.
+    direction: "rtl"
+    position: 160,150
+
+  - function: draw_phase_2
+    original: "Phase 2:\nEJECTION of particles\non the shield."
+    translated: |
+      שלב 2:
+      הוצאת חלקיקים
+      על המגן.
+    direction: "rtl"
+    position: 160,150
+
+  - function: draw_analysis
+    original: "A  N  A  L  Y  S  I  S"
+    translated: "א  י  ב  ח  ו  ן"
+    direction: "rtl"
+    position: 160,150
+
+  - function: draw_analysis_result
+    original: |
+      - RESULT:
+      Probability of creating:
+       ANTIMATTER: 91.V %
+       NEUTRINO 27:  0.04 %
+       NEUTRINO 424: 18 %
+    translated: |
+      - תוצאות:
+      הסתברות ליצירת:
+      91.V %אנטי-חומר:
+      ניוטרינו 27: 0.04 %
+      ניוטרינו 424: 18 %
+    direction: "rtl"
+    position: 160,130
+
+  - function: draw_the_experiment_will_begin
+    original: "THE EXPERIMENT WILL BEGIN IN    SECONDS"
+    translated: "הניסוי יתחיל בעוד      שניות"
+    direction: "rtl"
+    position: 260,80
+
+  - function: draw_status_0
+    original: "Shield 9A.5f Ok"
+    translated: "מגן 9A.5f תקין"
+    direction: "rtl"
+    position: 210,150
+
+  - function: draw_status_1
+    original: "Flux % 5.0177 Ok"
+    translated: "זרימה % 5.0177 תקין"
+    direction: "rtl"
+    position: 210,150
+
+  - function: draw_status_2
+    original: "CDI Vector ok"
+    translated: "וקטור CDI תקין"
+    direction: "rtl"
+    position: 210,150
+
+  - function: draw_status_3
+    original: " %%%ddd ok"
+    translated: "תקין %%%ddd"
+    direction: "rtl"
+    position: 210,150
+
+  - function: draw_status_4
+    original: "Race-Track ok"
+    translated: "מסלול ריצה תקין"
+    direction: "rtl"
+    position: 210,150
+
