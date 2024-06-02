@@ -32,7 +32,7 @@ font of any size would work fine.
 
 Here is the entire font from the Apple IIe rom dump:
 
-![image](hebrew-font/hebrew-font.png)
+![image](src/hebrew-font.png)
 
 Alternatively, I could have picked the VGA Hebrew font which would be as symbolic as this one.
 
