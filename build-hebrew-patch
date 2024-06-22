@@ -26,7 +26,7 @@ $AWSAK decompile --file resources/0018.txt.original > 18.asm
 echo "// cut" >> 18.asm
 
 # uncomment to skip introduction directly into IDENTIFICATION
-sed -i '' 's/setvec\t3\tL22cc/setvec\t3\tL190b/g' 18.asm
+# sed -i '' 's/setvec\t3\tL22cc/setvec\t3\tL190b/g' 18.asm
 
 # the following is the list of translations
 sed -i '' 's/text\t2\t.*/jsr draw_copyright_peanut/g' 18.asm
@@ -73,7 +73,7 @@ $AWSAK compile --file 18.asm --outfile resources/0018.txt
 ls -l resources/0018.txt
 
 # convert logo bitmap
-$AWSAK bmp2pic --bmp img/another-world-logo-heb.bmp --pic resources/0013.pic
+$AWSAK bmp2pic --bmp src/another-world-logo-heb.bmp --pic resources/0013.pic
 
 # prepare a disk distribution
 mkdir -p patched
