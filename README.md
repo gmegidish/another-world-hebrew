@@ -2,12 +2,12 @@
 
 This is a fan project to translate the game "Another World" (Out of This World, Outer World) into Hebrew.
 
-### How does it look?
+### How does it look? 👀
 
 ![image](website/logos.gif)
 ![image](website/intro.gif)
 
-### Introduction
+### Introduction 🎁
 
 Another World means a lot to many people. Gamers, myself included, have been obsessed with this game since it
 was released in the early 90s. Ask any fan, and you'll hear stories about the exhilaration of jumping off a cliff
@@ -26,7 +26,7 @@ I chose the second option, because this allows translations to other languages. 
 strings within the .exe. Furthermore, just run the patch on a different version, and it should work just fine. Although some versions have
 additional opcodes that are not covered by Another World Swiss Army Knife.
 
-### Hebrew Font
+### Hebrew Font אַ
 
 For the Hebrew font, I chose to use the font that I dumped from my Apple IIe computer. It's a 6x8 font, and it looks great in the game. Any
 font of any size would work fine.
@@ -94,19 +94,20 @@ Each non-transparent pixel in the font yields an `spr` opcode with 1/64 scale. S
 
 Still below 64kb, so we're good 😎
 
-### Screenshots 📸
-
-
-### Links
+### Links ⛓️
 
 - Eric Chahi's technical document of Another World's opcodes: https://anotherworld.fr/another_world.htm
 - Fabien Sanglard's 8-part technical document of Another World: https://fabiensanglard.net/another_world_polygons/index.html
 - Cyx's reverse-engineered Another World on all of its versions: https://github.com/cyxx/rawgl
 - Another World on Eric Chahi's website: https://anotherworld.fr/another_world.htm
 
-### License
+### License 🖖
 
 This project is licensed under the GPL 3 License - see the [LICENSE.md](LICENSE.md) file for details
+
+### Credits 🫡
+
+Introduction title graphics in Hebrew done by the brilliant Niv Baehr (github)[https://github.com/blooperz] 🙏
 
 ### Contact
 
