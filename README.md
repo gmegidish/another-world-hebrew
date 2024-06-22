@@ -96,10 +96,10 @@ Still below 64kb, so we're good 😎
 
 ### Links ⛓️
 
-- Eric Chahi's technical document of Another World's opcodes: https://anotherworld.fr/another_world.htm
-- Fabien Sanglard's 8-part technical document of Another World: https://fabiensanglard.net/another_world_polygons/index.html
-- Cyx's reverse-engineered Another World on all of its versions: https://github.com/cyxx/rawgl
-- Another World on Eric Chahi's website: https://anotherworld.fr/another_world.htm
+- Eric Chahi's technical document of Another World's opcodes [link](https://anotherworld.fr/another_world.htm)
+- Fabien Sanglard's 8-part technical document of Another World [link](https://fabiensanglard.net/another_world_polygons/index.html)
+- Cyx's reverse-engineered Another World on all of its versions [link](https://github.com/cyxx/rawgl)
+- Another World on Eric Chahi's website [link](https://anotherworld.fr/another_world.htm)
 
 ### License 🖖
 
@@ -107,7 +107,7 @@ This project is licensed under the GPL 3 License - see the [LICENSE.md](LICENSE.
 
 ### Credits 🫡
 
-Introduction title graphics in Hebrew done by the brilliant Niv Baehr (github)[https://github.com/blooperz] 🙏
+Introduction title graphics in Hebrew done by the brilliant Niv Baehr [github](https://github.com/blooperz) 🙏
 
 ### Contact
 
