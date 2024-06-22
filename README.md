@@ -4,8 +4,6 @@ This is a fan project to translate the game "Another World" (Out of This World, 
 
 ### How does it look?
 
-![image](src/another-world-logo-heb.bmp)
-![image](website/good-evening-professor.png)
 ![image](website/logos.gif)
 ![image](website/intro.gif)
 
