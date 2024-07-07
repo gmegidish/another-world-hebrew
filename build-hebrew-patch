@@ -9,6 +9,11 @@ if [ $? -ne 0 ]; then
   exit 1
 fi
 
+if [ ! -f disk/Memlist.bin ]; then
+  echo "Please copy the original game disk into the 'disk' directory."
+  exit 1
+fi
+
 # clean first
 rm -f 18.asm
 rm -rf resources
