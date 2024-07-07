@@ -52,9 +52,9 @@ was so starstruck that I forgot to ask for a picture :facepalm:.
 Here are some of my projects related to Another World:
 
 - Another World Hebrew (2024)
-    - Hebrew translation of the introduction of the game.
+    - Hebrew translation of the introduction of the game. [src](https://github.com/gmegidish/another-world-hebrew)
 - Another World Swiss Army Knife (2024)
-    - Tool for manipulating resources, such as game code.
+    - Tool for manipulating resources, such as game code. [src](https://github.com/gmegidish/awsak)
 - AWJS (2009)
     - An HTML5 implementation of Another
       World [src](https://github.com/gmegidish/awjs), [chrome experiments](https://experiments.withgoogle.com/another-world-js)
