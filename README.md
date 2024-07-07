@@ -152,6 +152,23 @@ resulting code file is larger:
 
 Still below 64kb, so we're good 😎
 
+### Running
+
+To run the project locally, you will need to install the dependencies:
+
+```bash
+npm install
+```
+
+Also, for the time being, the script assumes you have `awsak` installed globally. Please view the documentation
+at [Another World Swiss Army Knife](https://github.com/gmegidish/awsak) for more information.
+
+A single shell script prepares the output disk image. This script is called `build-hebrew-patch`. You will
+have to place the original files in a directory called `disk`.
+
+After executing this shell script, a new directory will be created: `patched`. Run **ANOTHER.EXE** from
+this directory using dosbox (or any other emulator) and see the Hebrew translation in action.
+
 ### Links ⛓️
 
 - Eric Chahi's technical document of Another World's opcodes [link](https://anotherworld.fr/another_world.htm)
